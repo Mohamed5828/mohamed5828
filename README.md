@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/mohamed5828?theme=forest&font=Noto%20Sans%20Brahmi)
 <!--
 **Mohamed5828/mohamed5828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
