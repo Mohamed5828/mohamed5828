@@ -1,5 +1,11 @@
 ## Hi there 👋
-![LeetCode Stats](https://leetcard.jacoblin.cool/mohamed5828?theme=forest&font=Noto%20Sans%20Brahmi)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mohamed5828?theme=forest&font=Noto%20Sans%20Brahmi" alt="LeetCode Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed5828&theme=dark&layout=compact" alt="LeetCode Stats">
+</p>
+
 <!--
 **Mohamed5828/mohamed5828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
